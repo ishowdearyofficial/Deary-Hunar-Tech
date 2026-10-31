@@ -1,0 +1,12 @@
+{
+  "name": "deary-tech",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deary Tech learning site with Gemini and OpenAI chat",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
